@@ -7,3 +7,7 @@
     width: 33%;
     margin-top: 35px;
 }
+.menu-card-inner {
+    padding: 25px 30px;
+    background-color: #dbe0e4;
+}
