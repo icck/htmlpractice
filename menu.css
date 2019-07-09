@@ -1,0 +1,9 @@
+@charset "utf-8";
+.menu {
+    padding: 90px 0 60px;
+    color: #5a5c5f;
+}
+.menu-card {
+    width: 33%;
+    margin-top: 35px;
+}
