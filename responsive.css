@@ -19,4 +19,13 @@
     .header-right a {
         font-size: 14px;
     }
+    .main {
+        padding: 670px;
+    }
+    .main-image {
+        width: 280px;
+    }
+    .main p {
+        font-size: 13px;
+    }
 }
