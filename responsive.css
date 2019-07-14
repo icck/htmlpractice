@@ -28,4 +28,7 @@
     .main p {
         font-size: 13px;
     }
+    .footer-right {
+        padding-top: 20px;
+    }
 }
