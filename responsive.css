@@ -11,9 +11,12 @@
 @media (max-width: 670px) {
     .header-left {
         display: none;
-        text-align: center;
     }
     .header-right {
+        float: none;
+        text-align: center;
+    }
+    .header-right a {
         font-size: 14px;
     }
 }
