@@ -7,4 +7,11 @@
     .top-title {
         font-size: 60px;
     }
+    .header-left {
+        display: none;
+        text-align: center;
+    }
+    .header-right {
+        font-size: 14px;
+    }
 }
