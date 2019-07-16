@@ -7,6 +7,9 @@
     .top-title {
         font-size: 60px;
     }
+    .menu-card {
+        width: 50%;
+    }
 }
 @media (max-width: 670px) {
     .header-left {
@@ -32,6 +35,6 @@
         padding-top: 20px;
     }
     .menu-card {
-        width: 50%;
+        width: 100%;
     }
 }
