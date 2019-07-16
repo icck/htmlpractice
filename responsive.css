@@ -31,4 +31,7 @@
     .footer-right {
         padding-top: 20px;
     }
+    .menu-card {
+        width: 50%;
+    }
 }
