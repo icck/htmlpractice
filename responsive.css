@@ -37,4 +37,7 @@
     .menu-card {
         width: 100%;
     }
+    .google-map iframe {
+        width: 100%;
+    }
 }
